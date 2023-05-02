@@ -1,0 +1,31 @@
+
+a
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ôÒøùõ0
+™
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ËÊıÿÿÿÿ8õÒøùõ0
+”
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ÛÛ¯ø8õÒøùõ0
+™
+java:S1120	"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(›ŠĞÚüÿÿÿÿ8öÒøùõ0
+›
+java:S1120
+"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(”õ‚—ıÿÿÿÿ8öÒøùõ0
+t	java:S109"SAssign this magic number 23 to a well-named constant, and use the constant instead.(äşŒÊûÿÿÿÿ8öÒøùõ0
+t	java:S109"SAssign this magic number 70 to a well-named constant, and use the constant instead.(äşŒÊûÿÿÿÿ8öÒøùõ0
+v	java:S109"ZAssign this magic number 123565544 to a well-named constant, and use the constant instead.(ÒÚ÷Ö8öÒøùõ0
+s	java:S109"WAssign this magic number 765433 to a well-named constant, and use the constant instead.(ÒÚ÷Ö8öÒøùõ0
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ç½Ìıÿÿÿÿ8ÿÒøùõ0
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(­ìÀ8ÿÒøùõ0
+g
+java:S1996"RThere are 2 top-level types in this file; move all but one of them to other files.8“Óøùõ0
+H
+java:S2333"&"public" is redundant in this context.(ËÊıÿÿÿÿ8”Óøùõ0
+@
+java:S2211	"Specify a type for: 'n1', 'n2'(›ŠĞÚüÿÿÿÿ8ŸÓøùõ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÈ¿Ÿ8¢Óøùõ0
+R
+java:S2148"5Add underscores to this numeric value for readability(ÒÚ÷Ö8¤Óøùõ0
+R
+java:S2148"5Add underscores to this numeric value for readability(ÒÚ÷Ö8¤Óøùõ0

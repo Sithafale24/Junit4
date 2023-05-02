@@ -1,0 +1,9 @@
+
+˜
+java:S5793"{Change this JUnit4 org.junit.runner.RunWith to the equivalent JUnit5 org.junit.jupiter.api.extension.ExtendWith annotation.(˜©ìç8É¬„°õ0
+o
+java:S3578 "RRename this method name to match the regular expression: '^test[A-Z][a-zA-Z0-9]*$'(Ýü²ó8Ë¬„°õ0
+ƒ
+java:S5793"aChange this JUnit4 org.junit.Test to the equivalent JUnit5 org.junit.jupiter.api.Test annotation.(½†Þ°úÿÿÿÿ8Ë¬„°õ0
+=
+java:S2698!" Add a message to this assertion.(Î‰ó½8Í¬„°õ0

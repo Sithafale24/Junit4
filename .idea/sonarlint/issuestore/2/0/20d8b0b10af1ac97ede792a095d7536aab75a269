@@ -1,0 +1,13 @@
+
+“
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(µ¹ßp8ð•„°õ0
+™
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(©ŒºÉûÿÿÿÿ8ñ•„°õ0
+;	java:S113"'Add a new line at the end of this file.8¬–„°õ0
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(›¥ØÚúÿÿÿÿ8®–„°õ0
+]
+java:S1106"AMove this left curly brace to the beginning of next line of code.(µ¹ßp8®–„°õ0
+Q
+java:S6212"/Declare this local variable with "var" instead.(©ŒºÉûÿÿÿÿ8Í˜„°õ0
+5	java:S121"Missing curly brace.(ýèæÿúÿÿÿÿ8Ï˜„°õ0

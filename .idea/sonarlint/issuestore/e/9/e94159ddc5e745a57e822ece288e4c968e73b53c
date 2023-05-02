@@ -1,0 +1,24 @@
+
+a
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8Ç›„°õ0
+™
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(±¬…üøÿÿÿÿ8È›„°õ0
+™
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Ó°¬Ñøÿÿÿÿ8É›„°õ0
+•
+java:S1120	"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(‹ƒú‡8Ê›„°õ0
+š
+java:S1120"xMake this line start after 6 spaces instead of 17 in order to indent the code consistently. (Indentation level is at 2.)(€½ñŸÿÿÿÿÿ8Ë›„°õ0
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(€½ñŸÿÿÿÿÿ8Î›„°õ0
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(û€Ó­8Ñ›„°õ0
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(±¬…üøÿÿÿÿ8Ò›„°õ0
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(á¢–¬8Ò›„°õ0
+P
+java:S1118":Add a private constructor to hide the implicit public one.(û€Ó­
+Q
+java:S6212"/Declare this local variable with "var" instead.(Ó°¬Ñøÿÿÿÿ8÷›„°õ0
+e
+java:S1107"HMove this "else" on the same line that the previous closing curly brace.(á¢–¬8ø›„°õ0
